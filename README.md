@@ -2,7 +2,7 @@
 This is the code for the paper: Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting
 
 
-[Paper](https://arxiv.org/abs/1907.03957 "Here is the paper ArXiv")
+[You can get the paper here](https://arxiv.org/abs/1907.03957)
 
 
 The main idea is to replace the decoder in an autoencoder by a model defined by a set of semantic parameters produced by the encoder.
