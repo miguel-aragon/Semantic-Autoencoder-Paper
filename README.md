@@ -1,4 +1,4 @@
-##Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting
+## Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting
 
 
 [Get the paper here](https://arxiv.org/abs/1907.03957)
