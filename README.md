@@ -6,25 +6,25 @@
 ***
 ***
 
-### The main idea is to replace the decoder in an autoencoder by a model defined by a set of semantic parameters produced by the encoder.
+The main idea of the paper is to replace the decoder in an autoencoder by a model defined by a set of semantic parameters produced by the encoder.The encoder produces parameters that correspond to paramters of the model in the decoder. This way we don't need supervision during training. Instead the model in the decoder will generate new images based on the predicted parameters.
 
-![picture](images/figure-1.png){:height="50%" width="50%"}
-
-***
-
-### This is the actual implementation. Note that we inject the coordinates as two-dimensional arrays.
-
-![picture](images/figure-2.png){:height="50%" width="50%"}
+![picture](images/figure-1.png)
 
 ***
 
-### The semantic autoencoder can predict the scale, ellipticity and angle of the exponential profile.
+This is the actual implemented architecture. Note that we inject the coordinates as two-dimensional arrays.
+
+![picture](images/figure-2.png)
+
+***
+
+So after training the semantic autoencoder can predict the scale, ellipticity and angle of the exponential profile to a very good degree.
 
 ![picture](images/figure-3.png)
 
 ***
 
-### A visual representation of the predicted parameters
+Finally we can see a visual comparison between true and predicted images.
 
 ![picture](images/figure-4.png)
 
