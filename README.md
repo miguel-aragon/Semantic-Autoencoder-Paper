@@ -8,7 +8,7 @@
 
 ### The main idea is to replace the decoder in an autoencoder by a model defined by a set of semantic parameters produced by the encoder.
 
-![picture](images/figure-1.png)
+![picture](images/figure-1.png){:height="50%" width="50%"}
 
 ***
 
