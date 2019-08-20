@@ -14,7 +14,7 @@
 
 ### This is the actual implementation. Note that we inject the coordinates as two-dimensional arrays.
 
-![picture](images/figure-2.png)
+![picture](images/figure-2.png){:height="50%" width="50%"}
 
 ***
 
