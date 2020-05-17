@@ -28,7 +28,9 @@ Finally we can see a visual comparison between true and predicted images.
 
 ![picture](images/figure-4.png)
 
+***
 
+This work was partly funded by “Programa de Apoyo a Proyectos de Investigacion e Innovacion Tecnologica” grant DGAPA-PAPIIT IA104818
 
 
 
